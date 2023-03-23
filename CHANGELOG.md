@@ -1,6 +1,10 @@
 # CHANGELOG
 
 
+## 1.4.2 (2023-03-23)
+
+* Add "Fixed issue where Chrome 111 and later have different default allowed origins" from v1.8.1
+
 ## 1.4.1 (2022-03-25)
 
 * Added fallback to css layout metrics
